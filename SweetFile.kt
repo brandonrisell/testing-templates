@@ -1,0 +1,3 @@
+fun SweetFile() {
+  return "Sweet!"
+}
